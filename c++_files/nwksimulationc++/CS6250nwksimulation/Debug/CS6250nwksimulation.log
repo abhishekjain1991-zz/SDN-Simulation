@@ -1,0 +1,30 @@
+﻿Build started 25-04-2014 09:32:53.
+     1>Project "C:\Users\Marcus\documents\visual studio 2013\Projects\CS6250nwksimulation\CS6250nwksimulation\CS6250nwksimulation.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SIMULATION.cpp
+         SIMULATION.cpp
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(24): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(26): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(35): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(46): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(52): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(96): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(98): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(107): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(119): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(125): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(142): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(227): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(242): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(244): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(253): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(171): warning C4715: 'ftp_inspector' : not all control paths return a value
+     1>c:\users\marcus\documents\visual studio 2013\projects\cs6250nwksimulation\cs6250nwksimulation\simulation.cpp(82): warning C4715: 'httppacket_inspector' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Marcus\documents\visual studio 2013\Projects\CS6250nwksimulation\Debug\CS6250nwksimulation.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Marcus\documents\visual studio 2013\Projects\CS6250nwksimulation\Debug\CS6250nwksimulation.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Marcus\documents\visual studio 2013\Projects\CS6250nwksimulation\Debug\CS6250nwksimulation.lib" /MACHINE:X86 Debug\SIMULATION.obj
+         CS6250nwksimulation.vcxproj -> C:\Users\Marcus\documents\visual studio 2013\Projects\CS6250nwksimulation\Debug\CS6250nwksimulation.exe
+     1>Done Building Project "C:\Users\Marcus\documents\visual studio 2013\Projects\CS6250nwksimulation\CS6250nwksimulation\CS6250nwksimulation.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.14
